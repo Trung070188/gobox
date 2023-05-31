@@ -1,0 +1,18 @@
+export default {
+  name: 'Kho hàng',
+  input_name: 'Tên',
+  input_code: 'Mã',
+  input_active: 'Hoạt động',
+  input_street: 'Địa chỉ',
+  input_city_code: 'Tỉnh thành',
+  input_district_code: 'Quận huyện',
+  input_ward_code: 'Phường xã',
+  input_phone: 'SĐT liên hệ',
+  input_owner: 'Người liên hệ',
+  input_type: 'Loại kho',
+  search_box: ' Tên, mã ...',
+  id: 'ID',
+  code: 'Mã',
+  created_at: 'Ngày tạo',
+  updated_at: 'Ngày cập nhật',
+}
